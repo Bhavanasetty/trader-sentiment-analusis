@@ -1,1 +1,1 @@
-# trader-sentiment-analusis
+# trader-sentiment-analysis
